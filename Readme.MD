@@ -2,6 +2,11 @@
 
 > 课程链接: [https://time.geekbang.org/column/intro/192](https://time.geekbang.org/column/intro/192)
 
+## 主库与镜像
+
+* Github.com主库地址: [https://github.com/pruidong/sql_heros_data](https://github.com/pruidong/sql_heros_data)
+* 码云(gitee.com)镜像地址(仅用作加速访问): [https://gitee.com/pruidong/sql_heros_data](https://gitee.com/pruidong/sql_heros_data)
+
 ## 针对平台
 
 * 仅保证可在MySQL 5.7 中可正确运行.
