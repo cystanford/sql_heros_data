@@ -2,6 +2,8 @@
 
 > 课程链接: [https://time.geekbang.org/column/intro/192](https://time.geekbang.org/column/intro/192)
 
+> 推荐使用: [heros_data_with_structure.sql](https://github.com/pruidong/sql_heros_data/blob/master/heros_data_with_structure.sql) 文件进行数据初始化操作.
+
 ## 主库与镜像
 
 * Github.com主库地址: [https://github.com/pruidong/sql_heros_data](https://github.com/pruidong/sql_heros_data)
